@@ -1,0 +1,4 @@
+c:\users\todd\documents\visual studio 2013\Projects\gcode\gcode\bin\Debug\gcode.dll
+c:\users\todd\documents\visual studio 2013\Projects\gcode\gcode\bin\Debug\gcode.pdb
+c:\users\todd\documents\visual studio 2013\Projects\gcode\gcode\obj\Debug\gcode.dll
+c:\users\todd\documents\visual studio 2013\Projects\gcode\gcode\obj\Debug\gcode.pdb

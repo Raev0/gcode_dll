@@ -1,0 +1,15 @@
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\bin\Debug\test.exe.config
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\bin\Debug\test.exe
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\bin\Debug\test.pdb
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\bin\Debug\gcode.dll
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\bin\Debug\gcode.pdb
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\obj\Debug\test_MarkupCompile.cache
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\obj\Debug\test.g.resources
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\obj\Debug\test.Properties.Resources.resources
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\obj\Debug\test.exe
+C:\Users\todd\Documents\Visual Studio 2013\Projects\gcode\WpfApplication1\obj\Debug\test.pdb
